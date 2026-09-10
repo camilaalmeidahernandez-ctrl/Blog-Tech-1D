@@ -1,4 +1,17 @@
+body[]
+    font-family; arial,helvetica,sans-serif; /*fonte univeral herdada por todo o site */ 
+    margin; 0;                           */remove margens padrão do navegador */
+    paddig: 0;
+
 header{
-    background-color: #183C63;
-    color: #FFFFFF
-    text-align:center;
+    background-color: #b4cbc5; /* cor de fundo */ 
+    color: #013005; /* cor da fonte */
+    text-align:center; /* centraliza o texto horizontalmente */
+    max-width: 000px; /* define a laegura máxima que o elemento pode ter */
+    margin: 0 auto; /* centraliza o bloco inteiro na tela */
+    padding: 16px; /* espaçamento inteiro entre a borda e o conteúdo */
+
+
+h1(
+    color; #17048f;
+
